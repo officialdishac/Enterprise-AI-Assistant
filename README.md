@@ -2,6 +2,13 @@
 
 A modular Generative AI application built with **Python**, **Streamlit**, and the **Groq API** to help users interact with AI, summarize emails, and generate concise summaries from PDF documents.
 
+---  
+
+## 🌐 Live Demo
+
+**Live Application:** https://enterprise-ai-assistant.streamlit.app/
+**GitHub Repository:** https://github.com/officialdishac/Enterprise-AI-Assistant
+
 ---
 
 ## 📌 Project Overview
