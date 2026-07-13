@@ -210,10 +210,8 @@ This project demonstrates practical implementation of the following software eng
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Enterprise-AI-Assistant.git
+git clone https://github.com/officialdishac/Enterprise-AI-Assistant.git
 ```
-
-Replace `your-username` with your GitHub username.
 
 ---
 
