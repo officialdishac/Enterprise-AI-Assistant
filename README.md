@@ -6,7 +6,7 @@ A modular Generative AI application built with **Python**, **Streamlit**, and th
 
 ## 🌐 Live Demo
 
-**Live Application:** https://enterprise-ai-assistant.streamlit.app/
+**Live Application:** https://enterprise-ai-assistant.streamlit.app/  
 **GitHub Repository:** https://github.com/officialdishac/Enterprise-AI-Assistant
 
 ---
