@@ -15,7 +15,7 @@ A modular Generative AI application built with **Python**, **Streamlit**, and th
 
 Enterprise AI Productivity Assistant is a lightweight AI-powered productivity application designed to simplify everyday tasks using Large Language Models (LLMs).
 
-The application integrates the **Groq API** with the **Llama 3.3 70B Versatile** model to provide three core productivity features through an intuitive Streamlit interface:
+The application integrates the **Groq API** with the **OpenAI GPT-OSS-120B** model to provide three core productivity features through an intuitive Streamlit interface:
 
 - 💬 AI Chat
 - 📧 Email Summarizer
@@ -41,7 +41,7 @@ The primary goals of this project were to:
 
 ### 💬 AI Chat
 
-Interact with an AI assistant powered by the Groq API and the Llama 3.3 70B Versatile model.
+Interact with an AI assistant powered by the Groq API and the OpenAI GPT-OSS-120B language model.
 
 **Key Capabilities**
 - Multi-turn conversational AI
@@ -135,7 +135,7 @@ The project is organized into multiple layers, each with a dedicated responsibil
 | **Service Layer** | Processes user requests and communicates with the Groq API |
 | **Prompt Layer** | Stores reusable prompt templates for different AI tasks |
 | **Groq Client** | Manages API authentication and communication |
-| **Groq API** | Generates AI responses using the Llama 3.3 70B Versatile model |
+| **Groq API** | Generates AI responses using the OpenAI GPT-OSS-120B language model |
 
 This layered architecture promotes separation of concerns by keeping the user interface, business logic, prompt engineering, and API integration independent. As a result, the application is easier to maintain, test, and extend with additional AI-powered features in the future.
 
@@ -190,7 +190,7 @@ Enterprise-AI-Assistant/
 | **Python 3.10** | Core programming language used to develop the application |
 | **Streamlit** | Builds the interactive web interface and manages user interaction |
 | **Groq API** | Provides access to the Large Language Model for AI-powered responses |
-| **Llama 3.3 70B Versatile** | Large Language Model used for chat and summarization tasks |
+| **OpenAI GPT-OSS-120B language model** | Large Language Model used for chat and summarization tasks |
 | **PyPDF** | Extracts text from uploaded PDF documents |
 | **python-dotenv** | Securely loads environment variables from the `.env` file |
 | **Git & GitHub** | Version control and project hosting |
@@ -362,7 +362,7 @@ This project was built using the following open-source technologies and librarie
 - Python
 - Streamlit
 - Groq API
-- Llama 3.3 70B Versatile
+- OpenAI GPT-OSS-120B language model
 - PyPDF
 - python-dotenv
 
