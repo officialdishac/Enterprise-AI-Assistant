@@ -30,7 +30,7 @@ st.sidebar.markdown("### Built With")
 st.sidebar.markdown("""
 - 🐍 Python
 - ⚡ Groq API
-- 🤖 Llama 3.3 70B
+- 🤖 OpenAI GPT-OSS-120B model
 - 🎈 Streamlit
 """)
 
