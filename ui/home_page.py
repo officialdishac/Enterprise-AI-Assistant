@@ -17,7 +17,7 @@ def render_home_page():
         st.metric("AI Features", "3")
 
     with col2:
-        st.metric("LLM", "Llama 3.3")
+        st.metric("LLM", "OpenAI GPT-OSS-120B model")
 
     with col3:
         st.metric("Framework", "Streamlit")
@@ -49,7 +49,7 @@ def render_home_page():
 - 🐍 Python
 - 🎈 Streamlit
 - ⚡ Groq API
-- 🤖 Llama 3.3 70B Versatile
+- 🤖 OpenAI GPT-OSS-120B model
 - 📄 PyPDF
 """)
 
